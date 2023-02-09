@@ -80,7 +80,6 @@ namespace PlayGame
             Thread.Sleep(4000);
 
             CowPng.Visible = false;
-            
 
         }
     }

@@ -93,12 +93,6 @@
     <None Include="Resources\578907__happyflappyguy__rick-roll-but-mad.wav" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\RickRoll.jfif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Rick Roll.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\617545__realpressuryt__note-block-dirt-10.wav" />
   </ItemGroup>
   <ItemGroup>
